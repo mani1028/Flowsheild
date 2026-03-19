@@ -30,4 +30,4 @@ jobs:
 
       - name: Run test suite
         run: |
-          pytest test_flowshield_v2.py -v
+          pytest test_flowshield.py -v

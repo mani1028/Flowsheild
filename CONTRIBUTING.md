@@ -22,10 +22,10 @@ FlowShield is optimized for extreme speed (<1ms latency) and zero dependencies. 
 
 ```bash
 # Run the test suite (must pass all 16 tests)
-pytest test_flowshield_v2.py -v
+pytest test_flowshield.py -v
 
 # Run performance benchmarks
-python benchmark_v2.py
+python benchmark.py
 ```
 
 ## Pull Request Process

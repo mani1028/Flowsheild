@@ -253,7 +253,7 @@ Run comprehensive test suite:
 pip install pytest
 
 # Run all tests (16 tests)
-python -m pytest test_flowshield_v2.py -v
+python -m pytest test_flowshield.py -v
 
 # Expected output:
 # ✅ 16 passed in 0.41s
@@ -275,7 +275,7 @@ python -m pytest test_flowshield_v2.py -v
 Run performance benchmarks:
 
 ```bash
-python benchmark_v2.py
+python benchmark.py
 ```
 
 ### Benchmark Tests:

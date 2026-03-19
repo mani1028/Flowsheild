@@ -132,3 +132,10 @@ dmypy.json
 # OS
 .DS_Store
 Thumbs.db
+
+# Development planning docs (not for public release)
+GITHUB_LAUNCH_PLAN.md
+FINAL_DELIVERY.md
+FINAL_PRODUCT_ASSESSMENT.md
+COMPLETE_STATUS.md
+PRODUCTION_IMPROVEMENTS.md
