@@ -1,0 +1,16 @@
+{
+  "include": ["flowshield", "example.py", "test_*.py", "benchmark*.py"],
+  "exclude": ["**/__pycache__", ".pytest_cache"],
+  "typeCheckingMode": "basic",
+  "reportMissingImports": false,
+  "reportMissingModuleSource": false,
+  "pythonVersion": "3.13",
+  "pythonPlatform": "Windows",
+  "venvPath": ".",
+  "executionEnvironments": [
+    {
+      "root": ".",
+      "pythonVersion": "3.13"
+    }
+  ]
+}
